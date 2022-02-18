@@ -1,0 +1,18 @@
+{
+  "category": "",
+  "location_type": "",
+  "location": {
+    "latitude": "",
+    "street": {
+      "id": 1,
+      "name": ""
+    },
+    "longitude": ""
+  },
+  "context": "",
+  "outcome_status": null,
+  "persistent_id": "",
+  "id": 1,
+  "location_subtype": "",
+  "month": ""
+}
